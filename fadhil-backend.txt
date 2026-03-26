@@ -2,3 +2,5 @@
 - belajar github
 - node.js / python
 - rest api
+- database sql
+- auth
