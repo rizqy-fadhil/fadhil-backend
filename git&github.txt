@@ -27,4 +27,13 @@ Merge Conflict : baris yang sama diubah oleh 2 branch yang berbeda
 #4
 Fork : cara kita untuk menduplikasi repositori punya orang lain, agar di copy ke akun github kita
 
+#5
+Git
+git init
+git add
+git status
+git log
+git config
+git checkout
+
 
