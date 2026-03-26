@@ -17,3 +17,12 @@ clone : mengambil repo dari remote
 push : mengirimkan commit ke repo
 pull : mengambil commit dari repo
 
+#3
+Branch : jalur development bebas dari sebuah commit
+Checkout : berpindah ke branch / commit yang lain
+Pull Request : minta pemilik repo untuk mengambil perubahan yang telah dilakukan
+Merge : menggabungkan 2 branch
+Merge Conflict : baris yang sama diubah oleh 2 branch yang berbeda
+
+
+
