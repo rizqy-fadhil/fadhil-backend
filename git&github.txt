@@ -32,8 +32,17 @@ Git
 git init
 git add
 git status
-git log
-git config
-git checkout
+git commit
+git branch
+git help
+
+3 area pada repo Git
+- working area : nyimpen file
+- staging area
+- history
+
+working > add > staging > commit > history
+
+
 
 
