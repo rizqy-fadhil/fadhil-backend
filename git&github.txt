@@ -30,9 +30,9 @@ Fork : cara kita untuk menduplikasi repositori punya orang lain, agar di copy ke
 #5
 Git
 git init
-git add
-git status
-git commit
+git add : memindah repo dari working ke staging
+git status : cek status. misal masih untracked
+git commit -m : memindah repo dari staging ke history dan memberi nama
 git branch
 git help
 
@@ -43,6 +43,16 @@ git help
 
 working > add > staging > commit > history
 
+#6
+GitBranch
+git branch <nama branch> : nambah branch
+git log --all --decorate --oneline --graph
+git checkout <nama branch> : pindah branch
+git merge <nama branch> : gabung branch ke master
+git branch --merged : melihat file mana yang sudah di merge
+git branch -d <nama branch> : hapus branch setelah selesai di commit
 
-
+Jenis Merge
+- Fast Forward
+- Three-Way Merge
 
