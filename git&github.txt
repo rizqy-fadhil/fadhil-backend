@@ -56,3 +56,12 @@ Jenis Merge
 - Fast Forward
 - Three-Way Merge
 
+#7
+MergeConflict
+Detech Head : head yang lepas dari branch nya, ketika kalian ingin mundur dari sebuah commit
+
+#8
+Git Remote, duplikat dari repo
+apabila kita fork dari repo orang == jadi remote dari repo tersebut
+
+
