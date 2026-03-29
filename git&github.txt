@@ -66,4 +66,7 @@ apabila kita fork dari repo orang == jadi remote dari repo tersebut
 git clone <copy clone dari github>
 git remote
 
+#9
+Github Pages
+
 
